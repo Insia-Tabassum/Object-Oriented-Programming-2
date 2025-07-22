@@ -1,0 +1,7 @@
+C:\Users\liya\source\repos\2. sum_using _while _loop\2. sum_using _while _loop\bin\Debug\_2.sum_using__while__loop.exe.config
+C:\Users\liya\source\repos\2. sum_using _while _loop\2. sum_using _while _loop\bin\Debug\_2.sum_using__while__loop.exe
+C:\Users\liya\source\repos\2. sum_using _while _loop\2. sum_using _while _loop\bin\Debug\_2.sum_using__while__loop.pdb
+C:\Users\liya\source\repos\2. sum_using _while _loop\2. sum_using _while _loop\obj\Debug\2. sum_using _while _loop.csproj.AssemblyReference.cache
+C:\Users\liya\source\repos\2. sum_using _while _loop\2. sum_using _while _loop\obj\Debug\2. sum_using _while _loop.csproj.CoreCompileInputs.cache
+C:\Users\liya\source\repos\2. sum_using _while _loop\2. sum_using _while _loop\obj\Debug\_2.sum_using__while__loop.exe
+C:\Users\liya\source\repos\2. sum_using _while _loop\2. sum_using _while _loop\obj\Debug\_2.sum_using__while__loop.pdb
