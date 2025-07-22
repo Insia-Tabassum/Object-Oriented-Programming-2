@@ -1,0 +1,7 @@
+C:\Users\liya\source\repos\5. Array Sorting\5. Array Sorting\bin\Debug\_5.Array_Sorting.exe.config
+C:\Users\liya\source\repos\5. Array Sorting\5. Array Sorting\bin\Debug\_5.Array_Sorting.exe
+C:\Users\liya\source\repos\5. Array Sorting\5. Array Sorting\bin\Debug\_5.Array_Sorting.pdb
+C:\Users\liya\source\repos\5. Array Sorting\5. Array Sorting\obj\Debug\5. Array Sorting.csproj.AssemblyReference.cache
+C:\Users\liya\source\repos\5. Array Sorting\5. Array Sorting\obj\Debug\5. Array Sorting.csproj.CoreCompileInputs.cache
+C:\Users\liya\source\repos\5. Array Sorting\5. Array Sorting\obj\Debug\_5.Array_Sorting.exe
+C:\Users\liya\source\repos\5. Array Sorting\5. Array Sorting\obj\Debug\_5.Array_Sorting.pdb
