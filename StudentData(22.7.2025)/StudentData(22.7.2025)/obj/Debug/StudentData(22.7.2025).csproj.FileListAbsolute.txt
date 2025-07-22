@@ -1,0 +1,7 @@
+C:\Users\liya\source\repos\StudentData(22.7.2025)\StudentData(22.7.2025)\bin\Debug\StudentData(22.7.2025).exe.config
+C:\Users\liya\source\repos\StudentData(22.7.2025)\StudentData(22.7.2025)\bin\Debug\StudentData(22.7.2025).exe
+C:\Users\liya\source\repos\StudentData(22.7.2025)\StudentData(22.7.2025)\bin\Debug\StudentData(22.7.2025).pdb
+C:\Users\liya\source\repos\StudentData(22.7.2025)\StudentData(22.7.2025)\obj\Debug\StudentData(22.7.2025).csproj.AssemblyReference.cache
+C:\Users\liya\source\repos\StudentData(22.7.2025)\StudentData(22.7.2025)\obj\Debug\StudentData(22.7.2025).csproj.CoreCompileInputs.cache
+C:\Users\liya\source\repos\StudentData(22.7.2025)\StudentData(22.7.2025)\obj\Debug\StudentData(22.7.2025).exe
+C:\Users\liya\source\repos\StudentData(22.7.2025)\StudentData(22.7.2025)\obj\Debug\StudentData(22.7.2025).pdb
