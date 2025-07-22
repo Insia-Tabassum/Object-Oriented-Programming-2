@@ -1,0 +1,7 @@
+C:\Users\liya\source\repos\4.Multipication Table\4.Multipication Table\bin\Debug\4.Multipication Table.exe.config
+C:\Users\liya\source\repos\4.Multipication Table\4.Multipication Table\bin\Debug\4.Multipication Table.exe
+C:\Users\liya\source\repos\4.Multipication Table\4.Multipication Table\bin\Debug\4.Multipication Table.pdb
+C:\Users\liya\source\repos\4.Multipication Table\4.Multipication Table\obj\Debug\4.Multipication Table.csproj.AssemblyReference.cache
+C:\Users\liya\source\repos\4.Multipication Table\4.Multipication Table\obj\Debug\4.Multipication Table.csproj.CoreCompileInputs.cache
+C:\Users\liya\source\repos\4.Multipication Table\4.Multipication Table\obj\Debug\4.Multipication Table.exe
+C:\Users\liya\source\repos\4.Multipication Table\4.Multipication Table\obj\Debug\4.Multipication Table.pdb
