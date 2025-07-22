@@ -1,0 +1,7 @@
+C:\Users\liya\source\repos\1.Character Checker\1.Character Checker\bin\Debug\1.Character Checker.exe.config
+C:\Users\liya\source\repos\1.Character Checker\1.Character Checker\bin\Debug\1.Character Checker.exe
+C:\Users\liya\source\repos\1.Character Checker\1.Character Checker\bin\Debug\1.Character Checker.pdb
+C:\Users\liya\source\repos\1.Character Checker\1.Character Checker\obj\Debug\1.Character Checker.csproj.AssemblyReference.cache
+C:\Users\liya\source\repos\1.Character Checker\1.Character Checker\obj\Debug\1.Character Checker.csproj.CoreCompileInputs.cache
+C:\Users\liya\source\repos\1.Character Checker\1.Character Checker\obj\Debug\1.Character Checker.exe
+C:\Users\liya\source\repos\1.Character Checker\1.Character Checker\obj\Debug\1.Character Checker.pdb

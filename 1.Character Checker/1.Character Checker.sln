@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Character Checker", "1.Character Checker\1.Character Checker.csproj", "{265B2F59-0736-4987-A6BB-9225CACFC74D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265B2F59-0736-4987-A6BB-9225CACFC74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265B2F59-0736-4987-A6BB-9225CACFC74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265B2F59-0736-4987-A6BB-9225CACFC74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265B2F59-0736-4987-A6BB-9225CACFC74D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55622176-6D91-4293-8C9C-7F183E358E28}
+	EndGlobalSection
+EndGlobal
