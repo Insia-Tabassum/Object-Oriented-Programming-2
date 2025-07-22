@@ -1,0 +1,7 @@
+C:\Users\liya\source\repos\3.Prime Number Checker\3.Prime Number Checker\bin\Debug\3.Prime Number Checker.exe.config
+C:\Users\liya\source\repos\3.Prime Number Checker\3.Prime Number Checker\bin\Debug\3.Prime Number Checker.exe
+C:\Users\liya\source\repos\3.Prime Number Checker\3.Prime Number Checker\bin\Debug\3.Prime Number Checker.pdb
+C:\Users\liya\source\repos\3.Prime Number Checker\3.Prime Number Checker\obj\Debug\3.Prime Number Checker.csproj.AssemblyReference.cache
+C:\Users\liya\source\repos\3.Prime Number Checker\3.Prime Number Checker\obj\Debug\3.Prime Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\liya\source\repos\3.Prime Number Checker\3.Prime Number Checker\obj\Debug\3.Prime Number Checker.exe
+C:\Users\liya\source\repos\3.Prime Number Checker\3.Prime Number Checker\obj\Debug\3.Prime Number Checker.pdb
